@@ -1,0 +1,109 @@
+[
+    {
+        "name": "etlSchemaBody",
+        "schema": {
+            "type": "record",
+            "name": "avroSchema",
+            "fields": [
+                {
+                    "name": "body_1",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_2",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_3",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_4",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_5",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_6",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_7",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_8",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_9",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_10",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_11",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_12",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_13",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                },
+                {
+                    "name": "body_14",
+                    "type": [
+                        "string",
+                        "null"
+                    ]
+                }
+            ]
+        }
+    }
+]
